@@ -1,0 +1,1 @@
+# ClickSavvy-HTML-Only
